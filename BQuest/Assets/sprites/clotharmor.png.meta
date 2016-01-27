@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: 67a256c1b9474144fadd90303eff23ea
+timeCreated: 1453314100
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: clotharmor_0
+    21300002: clotharmor_1
+    21300004: clotharmor_2
+    21300006: clotharmor_3
+    21300008: clotharmor_4
+    21300010: clotharmor_5
+    21300012: clotharmor_6
+    21300014: clotharmor_7
+    21300016: clotharmor_8
+    21300018: clotharmor_9
+    21300020: clotharmor_10
+    21300022: clotharmor_11
+    21300024: clotharmor_12
+    21300026: clotharmor_13
+    21300028: clotharmor_14
+    21300030: clotharmor_15
+    21300032: clotharmor_16
+    21300034: clotharmor_17
+    21300036: clotharmor_18
+    21300038: clotharmor_19
+    21300040: clotharmor_20
+    21300042: clotharmor_21
+    21300044: clotharmor_22
+    21300046: clotharmor_23
+    21300048: clotharmor_24
+    21300050: clotharmor_25
+    21300052: clotharmor_26
+    21300054: clotharmor_27
+    21300056: clotharmor_28
+    21300058: clotharmor_29
+    21300060: clotharmor_30
+    21300062: clotharmor_31
+    21300064: clotharmor_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: clotharmor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20.920013}
+        - {x: -7, y: 19.920013}
+        - {x: -7, y: 2.9200134}
+        - {x: -6, y: -3.0799866}
+        - {x: 4, y: -3.0799866}
+        - {x: 7, y: -2.0799866}
+        - {x: 9, y: 3.9200134}
+        - {x: 9, y: 18.920013}
+        - {x: 4, y: 20.920013}
+    - name: clotharmor_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20.920013}
+        - {x: -7, y: 16.920013}
+        - {x: -7, y: -2.0799866}
+        - {x: -4, y: -3.0799866}
+        - {x: 4, y: -3.0799866}
+        - {x: 10, y: 1.9200134}
+        - {x: 10, y: 14.920013}
+        - {x: 7, y: 20.920013}
+    - name: clotharmor_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20.920013}
+        - {x: -4, y: -3.0799866}
+        - {x: 12, y: -3.0799866}
+        - {x: 13, y: 0.9200134}
+        - {x: 13, y: 19.920013}
+        - {x: 11, y: 20.920013}
+    - name: clotharmor_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 20.920013}
+        - {x: -2, y: 20.920013}
+        - {x: -6, y: 16.920013}
+        - {x: -6, y: -0.07998657}
+        - {x: -4, y: -3.0799866}
+        - {x: 6, y: -3.0799866}
+        - {x: 11, y: 0.9200134}
+        - {x: 11, y: 10.920013}
+        - {x: 10, y: 16.920013}
+    - name: clotharmor_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 19.920013}
+        - {x: -2, y: 19.920013}
+        - {x: -6, y: 15.920013}
+        - {x: -6, y: -1.0799866}
+        - {x: -3, y: -3.0799866}
+        - {x: 6, y: -3.0799866}
+        - {x: 9, y: 4.9200134}
+        - {x: 9, y: 14.920013}
+    - name: clotharmor_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20.919998}
+        - {x: -7, y: -3.0800018}
+        - {x: 1, y: -3.0800018}
+        - {x: 6, y: -2.0800018}
+        - {x: 8, y: 2.9199982}
+        - {x: 8, y: 16.919998}
+        - {x: 6, y: 20.919998}
+    - name: clotharmor_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 21.919998}
+        - {x: -3, y: 21.919998}
+        - {x: -7, y: 17.919998}
+        - {x: -7, y: -1.0800018}
+        - {x: -4, y: -2.0800018}
+        - {x: 4, y: -2.0800018}
+        - {x: 7, y: 0.91999817}
+        - {x: 8, y: 8.919998}
+        - {x: 8, y: 18.919998}
+    - name: clotharmor_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20.919998}
+        - {x: -7, y: -3.0800018}
+        - {x: 1, y: -3.0800018}
+        - {x: 6, y: -2.0800018}
+        - {x: 8, y: 2.9199982}
+        - {x: 8, y: 16.919998}
+        - {x: 6, y: 20.919998}
+    - name: clotharmor_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 21.919998}
+        - {x: -7, y: 16.919998}
+        - {x: -7, y: -0.08000183}
+        - {x: -3, y: -2.0800018}
+        - {x: 3, y: -2.0800018}
+        - {x: 8, y: 0.91999817}
+        - {x: 8, y: 17.919998}
+        - {x: 3, y: 21.919998}
+    - name: clotharmor_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20.919998}
+        - {x: -7, y: -3.0800018}
+        - {x: 1, y: -3.0800018}
+        - {x: 6, y: -2.0800018}
+        - {x: 8, y: 2.9199982}
+        - {x: 8, y: 16.919998}
+        - {x: 6, y: 20.919998}
+    - name: clotharmor_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 20.919998}
+        - {x: -7, y: 16.919998}
+        - {x: -7, y: -1.0800018}
+        - {x: -5, y: -3.0800018}
+        - {x: 1, y: -3.0800018}
+        - {x: 7, y: -2.0800018}
+        - {x: 8, y: 1.9199982}
+        - {x: 8, y: 15.919998}
+        - {x: 6, y: 20.919998}
+    - name: clotharmor_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20.919998}
+        - {x: -9, y: 17.919998}
+        - {x: -9, y: 2.9199982}
+        - {x: -6, y: -2.0800018}
+        - {x: 5, y: -2.0800018}
+        - {x: 7, y: -1.0800018}
+        - {x: 7, y: 16.919998}
+        - {x: 2, y: 20.919998}
+    - name: clotharmor_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 21.919998}
+        - {x: -9, y: 18.919998}
+        - {x: -9, y: 3.9199982}
+        - {x: -6, y: -1.0800018}
+        - {x: 5, y: -1.0800018}
+        - {x: 7, y: -0.08000183}
+        - {x: 7, y: 17.919998}
+        - {x: 2, y: 21.919998}
+    - name: clotharmor_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21.919998}
+        - {x: -8, y: -1.0800018}
+        - {x: 8, y: -1.0800018}
+        - {x: 8, y: 18.919998}
+        - {x: 3, y: 21.919998}
+    - name: clotharmor_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21.919998}
+        - {x: -8, y: -1.0800018}
+        - {x: 4, y: -1.0800018}
+        - {x: 7, y: -0.08000183}
+        - {x: 9, y: 5.919998}
+        - {x: 9, y: 19.919998}
+        - {x: 4, y: 21.919998}
+    - name: clotharmor_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20.919998}
+        - {x: -9, y: 13.919998}
+        - {x: -9, y: 0.91999817}
+        - {x: -7, y: -2.0800018}
+        - {x: 6, y: -2.0800018}
+        - {x: 12, y: 3.9199982}
+        - {x: 12, y: 13.919998}
+        - {x: 8, y: 20.919998}
+    - name: clotharmor_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 20.919998}
+        - {x: -8, y: 18.919998}
+        - {x: -8, y: 0.91999817}
+        - {x: -7, y: -2.0800018}
+        - {x: 8, y: -2.0800018}
+        - {x: 8, y: 18.919998}
+        - {x: 6, y: 20.919998}
+    - name: clotharmor_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 21.919998}
+        - {x: -8, y: 19.919998}
+        - {x: -8, y: 3.9199982}
+        - {x: -4, y: -0.08000183}
+        - {x: -2, y: -1.0800018}
+        - {x: 8, y: -1.0800018}
+        - {x: 8, y: 19.919998}
+        - {x: 7, y: 21.919998}
+    - name: clotharmor_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 20.919998}
+        - {x: -8, y: 18.919998}
+        - {x: -8, y: 0.91999817}
+        - {x: -7, y: -2.0800018}
+        - {x: 8, y: -2.0800018}
+        - {x: 8, y: 18.919998}
+        - {x: 6, y: 20.919998}
+    - name: clotharmor_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 21.919998}
+        - {x: -8, y: 20.919998}
+        - {x: -8, y: -1.0800018}
+        - {x: 7, y: -1.0800018}
+        - {x: 8, y: -0.08000183}
+        - {x: 8, y: 16.919998}
+        - {x: 7, y: 21.919998}
+    - name: clotharmor_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 20.919998}
+        - {x: -8, y: 18.919998}
+        - {x: -8, y: 0.91999817}
+        - {x: -7, y: -2.0800018}
+        - {x: 8, y: -2.0800018}
+        - {x: 8, y: 18.919998}
+        - {x: 6, y: 20.919998}
+    - name: clotharmor_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20.919998}
+        - {x: -8, y: 18.919998}
+        - {x: -8, y: 0.91999817}
+        - {x: -5, y: -2.0800018}
+        - {x: 5, y: -2.0800018}
+        - {x: 8, y: 1.9199982}
+        - {x: 8, y: 18.919998}
+        - {x: 4, y: 20.919998}
+    - name: clotharmor_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20.919998}
+        - {x: -7, y: 15.919998}
+        - {x: -8, y: 4.919998}
+        - {x: -8, y: -0.08000183}
+        - {x: -3, y: -3.0800018}
+        - {x: 3, y: -3.0800018}
+        - {x: 9, y: 2.9199982}
+        - {x: 9, y: 18.919998}
+        - {x: 5, y: 20.919998}
+    - name: clotharmor_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19.919998}
+        - {x: -7, y: 14.919998}
+        - {x: -8, y: 3.9199982}
+        - {x: -8, y: -1.0800018}
+        - {x: -3, y: -4.080002}
+        - {x: 3, y: -4.080002}
+        - {x: 9, y: 1.9199982}
+        - {x: 9, y: 17.919998}
+        - {x: 5, y: 19.919998}
+    - name: clotharmor_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -5.080002}
+        - {x: 4, y: -5.080002}
+        - {x: 9, y: -3.0800018}
+        - {x: 9, y: 12.919998}
+        - {x: 5, y: 18.919998}
+        - {x: -8, y: 18.919998}
+    - name: clotharmor_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14.919998}
+        - {x: -11, y: 7.919998}
+        - {x: -11, y: 1.9199982}
+        - {x: -7, y: -5.080002}
+        - {x: 2, y: -5.080002}
+        - {x: 8, y: -1.0800018}
+        - {x: 8, y: 11.919998}
+        - {x: 7, y: 13.919998}
+        - {x: 2, y: 18.919998}
+        - {x: -4, y: 18.919998}
+    - name: clotharmor_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20.919998}
+        - {x: -11, y: 14.919998}
+        - {x: -11, y: -3.0800018}
+        - {x: 5, y: -3.0800018}
+        - {x: 7, y: 0.91999817}
+        - {x: 7, y: 18.919998}
+        - {x: 2, y: 20.919998}
+    - name: clotharmor_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20.919998}
+        - {x: -8, y: 16.919998}
+        - {x: -8, y: -1.0800018}
+        - {x: -5, y: -3.0800018}
+        - {x: 5, y: -3.0800018}
+        - {x: 8, y: 1.9199982}
+        - {x: 8, y: 18.919998}
+        - {x: 4, y: 20.919998}
+    - name: clotharmor_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 21.919998}
+        - {x: -8, y: 17.919998}
+        - {x: -8, y: -1.0800018}
+        - {x: -3, y: -2.0800018}
+        - {x: 6, y: -2.0800018}
+        - {x: 8, y: 2.9199982}
+        - {x: 8, y: 19.919998}
+        - {x: 3, y: 21.919998}
+    - name: clotharmor_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20.919998}
+        - {x: -8, y: 16.919998}
+        - {x: -8, y: -1.0800018}
+        - {x: -5, y: -3.0800018}
+        - {x: 5, y: -3.0800018}
+        - {x: 8, y: 1.9199982}
+        - {x: 8, y: 18.919998}
+        - {x: 4, y: 20.919998}
+    - name: clotharmor_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 21.919998}
+        - {x: -8, y: 20.919998}
+        - {x: -8, y: 3.9199982}
+        - {x: -4, y: -2.0800018}
+        - {x: 6, y: -2.0800018}
+        - {x: 8, y: 1.9199982}
+        - {x: 8, y: 19.919998}
+        - {x: 7, y: 21.919998}
+    - name: clotharmor_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20.92}
+        - {x: -8, y: 16.92}
+        - {x: -8, y: -1.0799999}
+        - {x: -5, y: -3.08}
+        - {x: 5, y: -3.08}
+        - {x: 8, y: 1.9200001}
+        - {x: 8, y: 18.92}
+        - {x: 4, y: 20.92}
+    - name: clotharmor_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20.92}
+        - {x: -8, y: 19.92}
+        - {x: -8, y: -2.08}
+        - {x: -4, y: -3.08}
+        - {x: 8, y: -3.08}
+        - {x: 8, y: 20.92}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
